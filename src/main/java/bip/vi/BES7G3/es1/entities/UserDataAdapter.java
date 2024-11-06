@@ -1,6 +1,6 @@
-package bip.vi.BES7G3.entities;
+package bip.vi.BES7G3.es1.entities;
 
-import bip.vi.BES7G3.interfaces.DataSource;
+import bip.vi.BES7G3.es1.entities.interfaces.DataSource;
 
 import java.time.LocalDate;
 import java.time.Period;

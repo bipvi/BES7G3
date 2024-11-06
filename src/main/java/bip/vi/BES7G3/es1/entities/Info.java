@@ -1,4 +1,4 @@
-package bip.vi.BES7G3.entities;
+package bip.vi.BES7G3.es1.entities;
 
 import java.util.Date;
 
